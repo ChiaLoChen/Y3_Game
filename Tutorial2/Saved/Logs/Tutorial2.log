@@ -1956,3 +1956,83 @@ Minimum required: 527.27
 [2023.09.29-15.08.18:124][533]LogViewport: Scene viewport resized to 1513x649, mode Windowed.
 [2023.09.29-15.08.18:212][534]LogViewport: Scene viewport resized to 1513x686, mode Windowed.
 [2023.09.29-15.08.18:299][535]LogViewport: Scene viewport resized to 1513x689, mode Windowed.
+[2023.09.29-15.08.39:650][627]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.422 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1510 files in 2283 folders with total size 18 MiB.
+[2023.09.29-15.18.16:011][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.09.29-15.18.16:013][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.028
+[2023.09.29-15.26.24:196][819]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TOUR PRO+ TWS Stereo), InstanceID=1
+[2023.09.29-15.26.24:454][819]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1432
+[2023.09.29-15.26.24:788][820]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{e7df26a3-c895-46cd-ab23-d120c5386b4c}, Name=Headphones (JBL TOUR PRO+ TWS Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=67.86
+[2023.09.29-15.26.24:789][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.29-15.26.24:792][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.29-15.27.49:922][ 76]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.09.29-15.27.50:207][ 76]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1432
+[2023.09.29-15.27.50:543][ 77]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6a57ea87-37d2-4e22-90f1-2022ffdd8e20}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=53.38
+[2023.09.29-15.27.50:543][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.29-15.27.50:545][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.29-15.27.57:928][100]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TOUR PRO+ TWS Stereo), InstanceID=1
+[2023.09.29-15.27.57:994][100]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.09.29-15.27.58:194][100]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TOUR PRO+ TWS Stereo), InstanceID=1
+[2023.09.29-15.27.58:216][100]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1432
+[2023.09.29-15.27.58:550][101]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{e7df26a3-c895-46cd-ab23-d120c5386b4c}, Name=Headphones (JBL TOUR PRO+ TWS Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=72.59
+[2023.09.29-15.27.58:550][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.29-15.27.58:553][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.29-15.27.59:544][104]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.09.29-15.27.59:553][104]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1432
+[2023.09.29-15.27.59:883][105]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6a57ea87-37d2-4e22-90f1-2022ffdd8e20}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=204.51
+[2023.09.29-15.27.59:883][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.29-15.27.59:885][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.29-15.28.16:523][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.29-15.28.16:525][154]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.031
+[2023.09.29-15.36.03:776][136]LogViewport: Scene viewport resized to 1145x823, mode Windowed.
+[2023.09.29-15.36.11:695][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-15.36.11:965][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Turret/Turret" FILE="../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Content/Blueprints/Turret/Turret.uasset" SILENT=true
+[2023.09.29-15.36.11:993][364]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/Turret
+[2023.09.29-15.36.11:994][364]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/Turret62A8A1EF4F0F20FB265E7CAE7AA772B5.tmp' to '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Content/Blueprints/Turret/Turret.uasset'
+[2023.09.29-15.36.12:045][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 349 ms (total: 2.60 sec)
+[2023.09.29-15.36.12:048][364]AssetCheck: New page: Asset Save: Turret
+[2023.09.29-15.36.12:048][364]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/Turret.Turret
+[2023.09.29-15.38.17:276][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.09.29-15.38.17:278][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.039
+[2023.09.29-15.48.18:079][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.09.29-15.48.18:081][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.043
+[2023.09.29-15.58.18:413][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.29-15.58.18:414][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.019
+[2023.09.29-16.08.18:945][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.09.29-16.08.18:947][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.023
+[2023.09.29-16.08.39:304][207]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.076 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1510 files in 2283 folders with total size 18 MiB.
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 0 (Found bundle for host: 0x84e83960000 [serially])
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.172.69.50) port 443 (#0))
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 7 (Closing connection 0)
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: 0000084EEFBEF500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.09.29-16.08.51:202][904]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA4D416CA-46AD-9D99-BE23-AA8077EF2C27%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=fe85e03c4acd147c36265a865e698387%7C55b62667f5d5468cb5c49292d9b59c0f%7Cade43549-b3c3-4f77-a3ef-745f4f3b0dc0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.29-16.08.55:894][184]LogEditorTransaction: Undo Edit Sight Radius
+[2023.09.29-16.08.56:433][197]Cmd: TRANSACTION UNDO
+[2023.09.29-16.08.56:433][197]LogEditorTransaction: Undo Edit Sensing Interval
+[2023.09.29-16.09.01:261][484]LogEditorTransaction: Undo Edit Hearing Threshold
+[2023.09.29-16.18.15:499][385]BlueprintLog: New page: Compile Turret
+[2023.09.29-16.18.15:566][385]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.09.29-16.18.58:815][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-16.18.58:867][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-16.19.41:259][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-16.19.41:350][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Turret/Turret" FILE="../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Content/Blueprints/Turret/Turret.uasset" SILENT=true
+[2023.09.29-16.19.41:358][474]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/Turret
+[2023.09.29-16.19.41:359][474]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/TurretE53353954D4049D00D9E2EA0488B9340.tmp' to '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Content/Blueprints/Turret/Turret.uasset'
+[2023.09.29-16.19.41:367][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.71 sec)
+[2023.09.29-16.19.41:368][474]AssetCheck: New page: Asset Save: Turret
+[2023.09.29-16.19.41:368][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/Turret.Turret
+[2023.09.29-16.19.52:612][635]LogEditorTransaction: Undo Modify Component(s)
+[2023.09.29-16.19.53:951][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-16.19.54:049][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Turret/Turret" FILE="../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Content/Blueprints/Turret/Turret.uasset" SILENT=true
+[2023.09.29-16.19.54:056][739]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/Turret
+[2023.09.29-16.19.54:057][739]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/Turret1C60FE734844D8E741B542BED16E3317.tmp' to '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Content/Blueprints/Turret/Turret.uasset'
+[2023.09.29-16.19.54:067][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.82 sec)
+[2023.09.29-16.19.54:069][739]AssetCheck: New page: Asset Save: Turret
+[2023.09.29-16.19.54:069][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/Turret.Turret
+[2023.09.29-16.19.55:526][898]BlueprintLog: New page: Compile Turret
+[2023.09.29-16.19.55:571][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
