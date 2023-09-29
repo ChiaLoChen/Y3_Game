@@ -2036,3 +2036,8 @@ Minimum required: 527.27
 [2023.09.29-16.19.54:069][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/Turret.Turret
 [2023.09.29-16.19.55:526][898]BlueprintLog: New page: Compile Turret
 [2023.09.29-16.19.55:571][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.09.29-16.20.23:655][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.09.29-16.20.23:661][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/NewMap/2/NK/OEBHDHW4KYJRFFHP82Q12E_Auto1
+[2023.09.29-16.20.23:661][337]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/OEBHDHW4KYJRFFHP82Q12E_Auto1808C775642119674645414ABAC7559FD.tmp' to '../../../../../../Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/Autosaves/Game/__ExternalActors__/NewMap/2/NK/OEBHDHW4KYJRFFHP82Q12E_Auto1.uasset'
+[2023.09.29-16.20.23:662][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.024
+[2023.09.29-16.20.23:662][337]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
