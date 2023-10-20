@@ -1,5 +1,3 @@
-2023/10/09-11:35:01.714 22bc Reusing MANIFEST C:/Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/09-11:35:01.725 22bc Recovering log #3
-2023/10/09-11:35:01.726 22bc Level-0 table #3: started
-2023/10/09-11:35:01.730 22bc Level-0 table #3: 16258 bytes OK
-2023/10/09-11:35:01.732 22bc Delete type=0 #3
+2023/10/20-00:15:28.250 4918 Reusing MANIFEST C:/Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/20-00:15:28.251 4918 Recovering log #4
+2023/10/20-00:15:28.252 4918 Reusing old log C:/Users/User/Documents/GitHub/Y3_Game/Tutorial2/Saved/webcache_4430\Local Storage\leveldb/000004.log 
