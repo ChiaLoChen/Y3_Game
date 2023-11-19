@@ -24,8 +24,9 @@ void Adoor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 	APlayerController* player = UGameplayStatics::GetPlayerController(this, 0);
+	APawn* playerPawn = player->GetPawn();
 	if (player) {
-		float distance = door->GetDistanceTo(player);
+		float distance = FVector::Distance(originalPos->GetActorLocation(),playerPawn->GetTargetLocation());
 		UE_LOG(LogTemp, Warning, TEXT("Distance to player: %f"), distance);
 
 		if (distance < proxDistance) {
